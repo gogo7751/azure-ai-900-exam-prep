@@ -9,7 +9,10 @@ Which business benefit should the company expect as a result of creating the web
 2.  a reduced workload for the customer service agents
 3.  improved product reliability
 
-**Answer(s):** B
+<details>
+  <summary>Show Answer</summary>
+  <p>B</p>
+</details>
 
 #### **QUESTION: 2**
 
